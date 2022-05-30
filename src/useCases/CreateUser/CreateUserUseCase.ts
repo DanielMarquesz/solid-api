@@ -34,7 +34,7 @@ export class CreateUserUseCase {
         email: 'daniel@email.com'
       },
       subject: 'Registro concluido',
-      body: '<p>Eu amo a Laís</p>'
+      body: '<p>Seja Bem Vindo</p>'
     })
   }
 }
